@@ -1,9 +1,9 @@
 # Asynchronous-Javascript
  Core concepts of Asynchronous JS (Promises,Chaining,Async/Await,FetchAPI)
 
-## setTimeout(()=>{
-//function code
-},5000);      // Time in milliseconds
+### setTimeout(()=>{
+### //function code
+### },5000);      // Time in milliseconds
 
 # Promises
 Promise of code execution.
